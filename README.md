@@ -1,4 +1,4 @@
-# SimulacaoTransito3D
+# Simulação de Trânsito em 3D
 Simulação de transito em 3D feito em Processing, trabalho desenvolvido para a disciplina de computação gráfica.
 
 # Instalação
